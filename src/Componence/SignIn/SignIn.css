@@ -1,0 +1,40 @@
+.welcome{
+    color: white;
+    font-style: normal;
+    font-weight: bold;
+    height: 23px;
+   
+}
+.loginText{
+    line-height: 2;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+.signIn1{
+    height: 40px;
+    width: 200px;
+    background-color: inherit;
+    border: solid 1.5px white;
+    color: white;
+    border-radius: 20px;
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    gap: 20px;
+    
+}
+.logoMain{
+    font-size: 30px;
+}
+.compnyLogo{
+    color: white;
+    display: flex;
+    height: 10%;
+    align-items: center;
+    padding-left: 10px;
+}
